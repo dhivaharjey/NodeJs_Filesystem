@@ -9,7 +9,10 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "file",
+    "system"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
